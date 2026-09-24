@@ -35,8 +35,7 @@ Each ingredient has a text box for typing a guess. If the typed value isn't one 
 ### Demo
 A full run: click New Drink, make guesses, then Check Answer to see the results.
 
-<!-- Upload demo.mov on github.com and paste ONLY the generated user-attachments link on the blank line below (no other text) -->
-
+https://github.com/user-attachments/assets/18abce70-f05d-4e62-9cea-288a3d0f84ce
 
 ## What I practiced
 - Building React forms from scratch with dynamically populated choices
